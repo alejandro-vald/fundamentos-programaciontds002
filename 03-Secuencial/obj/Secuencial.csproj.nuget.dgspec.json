@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moise\\OneDrive\\Desktop\\proyecto\\03-Secuencial\\Secuencial.csproj": {}
+    "c:\\Users\\moise\\OneDrive\\Desktop\\proyecto\\03-Secuencial\\Secuencial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moise\\OneDrive\\Desktop\\proyecto\\03-Secuencial\\Secuencial.csproj": {
+    "c:\\Users\\moise\\OneDrive\\Desktop\\proyecto\\03-Secuencial\\Secuencial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moise\\OneDrive\\Desktop\\proyecto\\03-Secuencial\\Secuencial.csproj",
+        "projectUniqueName": "c:\\Users\\moise\\OneDrive\\Desktop\\proyecto\\03-Secuencial\\Secuencial.csproj",
         "projectName": "Secuencial",
-        "projectPath": "C:\\Users\\moise\\OneDrive\\Desktop\\proyecto\\03-Secuencial\\Secuencial.csproj",
+        "projectPath": "c:\\Users\\moise\\OneDrive\\Desktop\\proyecto\\03-Secuencial\\Secuencial.csproj",
         "packagesPath": "C:\\Users\\moise\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moise\\OneDrive\\Desktop\\proyecto\\03-Secuencial\\obj\\",
+        "outputPath": "c:\\Users\\moise\\OneDrive\\Desktop\\proyecto\\03-Secuencial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\moise\\AppData\\Roaming\\NuGet\\NuGet.Config"
