@@ -1,0 +1,14 @@
+C:\Users\moise\OneDrive\Desktop\proyecto\02-Variables\bin\Debug\net10.0\Variables.exe
+C:\Users\moise\OneDrive\Desktop\proyecto\02-Variables\bin\Debug\net10.0\Variables.deps.json
+C:\Users\moise\OneDrive\Desktop\proyecto\02-Variables\bin\Debug\net10.0\Variables.runtimeconfig.json
+C:\Users\moise\OneDrive\Desktop\proyecto\02-Variables\bin\Debug\net10.0\Variables.dll
+C:\Users\moise\OneDrive\Desktop\proyecto\02-Variables\bin\Debug\net10.0\Variables.pdb
+C:\Users\moise\OneDrive\Desktop\proyecto\02-Variables\obj\Debug\net10.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\OneDrive\Desktop\proyecto\02-Variables\obj\Debug\net10.0\Variables.AssemblyInfoInputs.cache
+C:\Users\moise\OneDrive\Desktop\proyecto\02-Variables\obj\Debug\net10.0\Variables.AssemblyInfo.cs
+C:\Users\moise\OneDrive\Desktop\proyecto\02-Variables\obj\Debug\net10.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\moise\OneDrive\Desktop\proyecto\02-Variables\obj\Debug\net10.0\Variables.dll
+C:\Users\moise\OneDrive\Desktop\proyecto\02-Variables\obj\Debug\net10.0\refint\Variables.dll
+C:\Users\moise\OneDrive\Desktop\proyecto\02-Variables\obj\Debug\net10.0\Variables.pdb
+C:\Users\moise\OneDrive\Desktop\proyecto\02-Variables\obj\Debug\net10.0\Variables.genruntimeconfig.cache
+C:\Users\moise\OneDrive\Desktop\proyecto\02-Variables\obj\Debug\net10.0\ref\Variables.dll
